@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T14:16:49.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="twyZ_rUVv-QTC2vn98AK" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-07T14:18:05.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Lf8Yrfx6kF-R0pH47MqE" version="20.4.0" type="github">
   <diagram id="Ee9s-W-hiH09DrzuSm6O" name="Страница 1">
     <mxGraphModel dx="1117" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,12 @@
             <mxPoint x="350" y="50" as="sourcePoint" />
             <mxPoint x="490" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="plw8cePdsiT2w4CJzT8i-20" value="Авторизоваться на портале" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="plw8cePdsiT2w4CJzT8i-21" value="Редактировать профиль" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="770" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
