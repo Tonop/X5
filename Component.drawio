@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T07:01:58.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="7_a54AuBbEAi4HcXgoxl" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T07:02:58.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="doITXkQhuSZvwnBHleOP" version="20.4.0" type="github">
   <diagram id="RBxNGfNoUyg8NmXb8gKQ" name="Страница 2">
     <mxGraphModel dx="1422" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
         <mxCell id="JGjenGz9moSJ3cuwdnmN-28" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="820" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="JGjenGz9moSJ3cuwdnmN-29" value="Перечень ИС&lt;br&gt;Правила фильтрации&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="JGjenGz9moSJ3cuwdnmN-29" value="Перечень ИС&lt;br&gt;IP адрес" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="125" y="680" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JGjenGz9moSJ3cuwdnmN-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JGjenGz9moSJ3cuwdnmN-29" target="JGjenGz9moSJ3cuwdnmN-28">
