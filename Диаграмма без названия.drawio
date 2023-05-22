@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T10:43:20.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Xh4qp59k2HWrghDEgfKh" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-22T10:45:06.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="I4_JYdu-XGqSZT64udmp" version="21.0.2" type="github" pages="2">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="776" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -79,6 +79,9 @@
           <mxGeometry x="-0.8889" y="1" relative="1" as="geometry">
             <mxPoint x="17" y="-13" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fu375ZCut4iSAKl61FI6-41" value="Диаграмма информационных потоков&lt;br&gt;БП Факторинга" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="205" y="225" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
