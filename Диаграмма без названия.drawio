@@ -1,55 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T07:53:39.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="YmCjb6gRskBEW2z_0FSJ" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-22T10:43:20.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Xh4qp59k2HWrghDEgfKh" version="21.0.2" type="github" pages="2">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="776" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="fu375ZCut4iSAKl61FI6-17" value="Факторинговые площадки" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="455" y="320" width="190" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="fu375ZCut4iSAKl61FI6-4" value="X5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fu375ZCut4iSAKl61FI6-4" value="Компания X5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fu375ZCut4iSAKl61FI6-5" value="Фактор 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fu375ZCut4iSAKl61FI6-5" value="Фактор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <object label="" InformationItem="InformationItem" id="fu375ZCut4iSAKl61FI6-8">
-          <mxCell style="endArrow=open;html=1;rounded=0;dashed=1;strokeColor=default;startArrow=none;startFill=0;endFill=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;flowAnimation=0;" edge="1" parent="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="190" y="430" as="sourcePoint" />
-              <mxPoint x="490" y="430" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </object>
-        <mxCell id="fu375ZCut4iSAKl61FI6-11" value="&amp;lt;&amp;lt;flow&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fu375ZCut4iSAKl61FI6-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint y="13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fu375ZCut4iSAKl61FI6-13" value="УЗДФ (подписанный Покупателем)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fu375ZCut4iSAKl61FI6-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint y="-13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fu375ZCut4iSAKl61FI6-18" value="Фактор 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
         <object label="" InformationItem="InformationItem" id="fu375ZCut4iSAKl61FI6-19">
-          <mxCell style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=default;startArrow=open;startFill=0;endFill=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;flowAnimation=0;" edge="1" parent="1">
+          <mxCell style="endArrow=none;html=1;rounded=0;strokeColor=default;startArrow=block;startFill=1;endFill=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;flowAnimation=0;targetPerimeterSpacing=0;strokeWidth=0;endSize=0;sourcePerimeterSpacing=0;startSize=17;jumpStyle=none;jumpSize=0;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
-              <mxPoint x="190" y="390" as="sourcePoint" />
-              <mxPoint x="490" y="390" as="targetPoint" />
+              <mxPoint x="317" y="385" as="sourcePoint" />
+              <mxPoint x="467" y="385" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="fu375ZCut4iSAKl61FI6-20" value="&amp;lt;&amp;lt;flow&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fu375ZCut4iSAKl61FI6-19">
+        <mxCell id="fu375ZCut4iSAKl61FI6-21" value="&amp;nbsp;УЗДФ &lt;br&gt;(подписанный Фактором и Поставщиком)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;" vertex="1" connectable="0" parent="fu375ZCut4iSAKl61FI6-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="13" as="offset" />
+            <mxPoint x="-64" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fu375ZCut4iSAKl61FI6-21" value="&amp;nbsp;УЗДФ (подписанный Фактором и Поставщиком)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fu375ZCut4iSAKl61FI6-19">
+        <mxCell id="fu375ZCut4iSAKl61FI6-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="385" as="sourcePoint" />
+            <mxPoint x="490" y="385" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fu375ZCut4iSAKl61FI6-23" value="0..1" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="fu375ZCut4iSAKl61FI6-22">
+          <mxGeometry x="-0.9289" y="1" relative="1" as="geometry">
+            <mxPoint y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fu375ZCut4iSAKl61FI6-35" value="Покупатель" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fu375ZCut4iSAKl61FI6-22">
+          <mxGeometry x="-0.8422" relative="1" as="geometry">
+            <mxPoint x="5" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fu375ZCut4iSAKl61FI6-37" value="*" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="fu375ZCut4iSAKl61FI6-22">
+          <mxGeometry x="0.9044" relative="1" as="geometry">
+            <mxPoint y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="," InformationItem="InformationItem" id="fu375ZCut4iSAKl61FI6-29">
+          <mxCell style="endArrow=block;html=1;rounded=0;strokeColor=default;startArrow=none;startFill=0;endFill=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;flowAnimation=0;targetPerimeterSpacing=0;strokeWidth=0;endSize=17;sourcePerimeterSpacing=0;startSize=0;jumpStyle=none;jumpSize=0;" edge="1" parent="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="190" y="435" as="sourcePoint" />
+              <mxPoint x="336" y="435" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="fu375ZCut4iSAKl61FI6-30" value="&amp;nbsp;УЗДФ &lt;br&gt;(подписанный Покупателем)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;" vertex="1" connectable="0" parent="fu375ZCut4iSAKl61FI6-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="-13" as="offset" />
+            <mxPoint x="65" y="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fu375ZCut4iSAKl61FI6-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="435" as="sourcePoint" />
+            <mxPoint x="490" y="435" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fu375ZCut4iSAKl61FI6-32" value="0..1" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="fu375ZCut4iSAKl61FI6-31">
+          <mxGeometry x="-0.9289" y="1" relative="1" as="geometry">
+            <mxPoint y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fu375ZCut4iSAKl61FI6-33" value="*" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="fu375ZCut4iSAKl61FI6-31">
+          <mxGeometry x="0.9044" relative="1" as="geometry">
+            <mxPoint y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fu375ZCut4iSAKl61FI6-39" value="Покупатель" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fu375ZCut4iSAKl61FI6-31">
+          <mxGeometry x="-0.8889" y="1" relative="1" as="geometry">
+            <mxPoint x="17" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
