@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T06:16:16.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="yVqzOnT8ejYfnZogeTpA" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-26T15:02:04.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nrTtqim2TwZj4i18ODIH" version="21.3.3" type="github" pages="2">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="776" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
         <mxCell id="fu375ZCut4iSAKl61FI6-41" value="Диаграмма информационных потоков&lt;br&gt;БП &quot;Факторинг&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="210" y="270" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="89ALjHZ30BcYtr6io5Th-1" value="&lt;i&gt;UML Information Flow Diagram&amp;nbsp;&lt;br&gt;(since UML v2.5.1 specification December 2017)&lt;/i&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="89ALjHZ30BcYtr6io5Th-1" value="&lt;i&gt;UML Information Flow Diagram&amp;nbsp;&lt;br&gt;(since UML v2.5.1 specification December 2017)&lt;/i&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="563" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
